@@ -6,7 +6,7 @@
     <p align="center">Pior bot do discord</p>
     <p align="center">
         <a href="https://github.com/ShuShuzinhuu/Liaa/releases">
-         <img src="https://img.shields.io/badge/Release-Lia_0.1.3-f5a2ec?" />
+         <img src="https://img.shields.io/badge/Release-Lia_0.1.4-f5a2ec?" />
         <a href="https://discord.gg/fJqZGaKcmv">
          <img src="https://img.shields.io/badge/Discord-15_members-333ce8?logo=discord">
         <img src="https://img.shields.io/badge/release_date-Ago 2024-ff00bb">
