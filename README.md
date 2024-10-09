@@ -7,8 +7,8 @@
     <p align="center">
         <a href="https://github.com/ShuShuzinhuu/Liaa/releases">
          <img src="https://img.shields.io/badge/Release-Lia_0.1.4-f5a2ec?" />
-        <a href="https://discord.gg/BteDD9dS">
-         <img src="https://img.shields.io/badge/Discord-18_members-333ce8?logo=discord">
+        <a href="https://discord.gg/fJqZGaKcmv">
+         <img src="https://img.shields.io/badge/Discord-15_members-333ce8?logo=discord">
         <img src="https://img.shields.io/badge/release_date-Oct 2024-ff00bb">
         </a>
     </p>
