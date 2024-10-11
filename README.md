@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://discord.gg/9xpsFt3FfZ">
-        <img src="https://cdn.discordapp.com/attachments/1260195637622734900/1293433394386042933/this_you_.jpg" width="256" height="256" alt="Liaa icon" />
+        <img src="https://cdn.discordapp.com/attachments/1260195637622734900/1293433394386042933/this_you_.jpg?ex=670aa6f8&is=67095578&hm=429d2835d27c2f8f7f71dd60348be1a632daa8029c20db0638489740421ecd59&" width="256" height="256" alt="Liaa icon" />
     </a>
     <h1 align="center">Liaa💕</h1>
     <p align="center">bot mais fofinha do discord</p>
