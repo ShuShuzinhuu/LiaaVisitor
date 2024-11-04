@@ -9,10 +9,12 @@
     <p>Princesa dos mais Lindos<3</p>
 </div>
         
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LiaaVisitor&label=Profile%20views&color=fe58a8&style=flat" alt="shushuzinhu" /> </p>
 
 <div align="center">
-    <a href="https://github.com/ShuShuzinhuu/Liaa/releases">
+    <a href="https://github.com/ShuShuzinhuu/LiaaVisitor">
+     <img src="https://komarev.com/ghpvc/?username=LiaaVisitor&label=Profile%20views&color=fe58a8&style=flat" alt="shushuzinhu" />
+    </a>
+    <a href="https://github.com/ShuShuzinhuu/LiaaVisitor">
         <img src="https://img.shields.io/badge/Release-Lia_1.0.0-f5a2ec?" />
     </a>
     <a href="https://discord.gg/bxguzinho">
