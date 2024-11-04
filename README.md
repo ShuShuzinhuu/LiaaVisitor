@@ -6,7 +6,7 @@
 
 <div align="center">
     <h1>Liaa💕</h1>
-    <p>Princesa dos mais Lindos<3</p>
+    <p>Princesa do Discord.gg<3</p>
 </div>
         
 
