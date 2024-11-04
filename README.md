@@ -8,6 +8,8 @@
     <h1>Liaa💕</h1>
     <p>Princesa dos mais Lindos<3</p>
 </div>
+        
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shushuzinhu&label=Profile%20views&color=fe58a8&style=flat" alt="shushuzinhu" /> </p>
 
 <div align="center">
     <a href="https://github.com/ShuShuzinhuu/Liaa/releases">
