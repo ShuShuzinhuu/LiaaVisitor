@@ -6,7 +6,7 @@
 
 <div align="center">
     <h1>Liaa💕</h1>
-    <p>Princesa do Discord.gg<3</p>
+    <p>Princesa do Luiz!💕<3</p>
 </div>
         
 
@@ -15,13 +15,13 @@
      <img src="https://komarev.com/ghpvc/?username=LiaaVisitor&label=Profile%20views&color=fe58a8&style=flat" alt="shushuzinhu" />
     </a>
     <a href="https://github.com/ShuShuzinhuu/LiaaVisitor">
-        <img src="https://img.shields.io/badge/Release-Lia_1.0.0-f5a2ec?" />
+        <img src="https://img.shields.io/badge/Release-Lia_1.0.1-f5a2ec?" />
     </a>
     <a href="https://discord.com/application-directory/1193579556821532764">
         <img src="https://img.shields.io/badge/AddMe-InServer-333ce8?logo=discord">
     </a>
     <a href="https://discord.com/application-directory/1193579556821532764">
-       <img src="https://img.shields.io/badge/release_date-Oct_2024-ff00bb">
+       <img src="https://img.shields.io/badge/release_date-Dec._2024-ff00bb">
 </div>
 
 
