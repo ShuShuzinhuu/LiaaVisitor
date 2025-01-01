@@ -12,7 +12,7 @@
 
 <div align="center">
     <a href="https://github.com/ShuShuzinhuu/LiaaVisitor">
-     <img src="https://komarev.com/ghpvc/?username=LiaaVisitor&label=Liaa%20views&color=fe58a8&style=flat" alt="shushuzinhu" />
+     <img src="https://komarev.com/ghpvc/?username=LiaaVisitor&label=Liaa%20Views&color=fe58a8&style=flat" alt="shushuzinhu" />
     </a>
     <a href="https://github.com/ShuShuzinhuu/LiaaVisitor">
         <img src="https://img.shields.io/badge/Release-Lia_2.0.0-f5a2ec?" />
