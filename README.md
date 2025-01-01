@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://discord.com/application-directory/1193579556821532764">
-        <img src="https://i.imgur.com/M2qQvvo.png" width="350" height="350" alt="Liaa icon" />
+        <img src="https://message.style/cdn/images/c9460d4824e68bc44a67aebbd750b806e7c467dc8f98517da622c11fe7dbe89e.jfif" width="350" height="350" alt="Liaa icon" />
     </a>
 </div>
 
