@@ -15,7 +15,7 @@
      <img src="https://komarev.com/ghpvc/?username=LiaaVisitor&label=Liaa%20Views&color=fe58a8&style=flat" alt="shushuzinhu" />
     </a>
     <a href="https://github.com/ShuShuzinhuu/LiaaVisitor">
-        <img src="https://img.shields.io/badge/Release-Lia_2.0.3-f5a2ec?" />
+        <img src="https://img.shields.io/badge/Release-Discontinued-f5a2ec?" />
     </a>
     <a href="https://discord.com/application-directory/1193579556821532764">
         <img src="https://img.shields.io/badge/AddMe-InServer-333ce8?logo=discord">
